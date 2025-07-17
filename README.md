@@ -19,6 +19,14 @@ A lightweight, vanilla JavaScript e‑commerce app featuring a product gallery, 
 
 ---
 
+https://github.com/user-attachments/assets/7096569d-f6cc-45c1-8900-37fece5d10be
+
+https://github.com/user-attachments/assets/646ddf25-8400-4bc5-b3fb-fe1bd66894c9
+
+https://github.com/user-attachments/assets/2a6ac903-14c1-4a17-a98f-b3642346ffd3
+
+
+
 ## ⚙️ Installation & Setup
 
 1. **Clone this repository**  
